@@ -18,7 +18,6 @@
 
         android:textStyle="bold"
         android:text="Conexion"
-        android:background="@null"
         android:textSize="24sp"
         android:textColor="#fff"
         android:gravity="center"
